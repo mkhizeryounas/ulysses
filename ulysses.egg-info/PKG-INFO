@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ulysses
+Version: 0.9.dev0
+Summary: ulysses.py is a standalone sentences splitter.
+Home-page: https://github.com/sortiz/ulysses-sentence-splitter
+Author: Sergio Ortiz Rojas
+Author-email: sergio@prompsit.com
+License: GPLv2
+Description: UNKNOWN
+Keywords: sentence splitting
+Platform: UNKNOWN

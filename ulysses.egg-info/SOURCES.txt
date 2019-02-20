@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+ulysses/__init__.py
+ulysses/ulysses.py
+ulysses.egg-info/PKG-INFO
+ulysses.egg-info/SOURCES.txt
+ulysses.egg-info/dependency_links.txt
+ulysses.egg-info/entry_points.txt
+ulysses.egg-info/not-zip-safe
+ulysses.egg-info/requires.txt
+ulysses.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+ulysses = ulysses.ulysses:main
+
